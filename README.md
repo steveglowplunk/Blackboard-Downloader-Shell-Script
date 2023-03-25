@@ -44,7 +44,10 @@ Run the script with the URL of the course's page that has downloadable files on 
 ./BlackboardDownloader.sh "https://blackboard.cuhk.edu.hk/webapps/blackboard/content/listContent.jsp?course_id=_163790_1&content_id=_3726918_1&mode=reset"
 ```
 where the website looks like this in the browser:
-![firefox_2023_03_25_22_01_05](https://user-images.githubusercontent.com/28670916/227725198-66df3763-25dd-4bec-b3f8-ff8dec649c70.png)
+![firefox_2023_03_25_22_01_05](https://user-images.githubusercontent.com/28670916/227725198-66df3763-25dd-4bec-b3f8-ff8dec649c70.png)  
+Select an option from the menu:  
+![Console_2023_03_25_22_44_06 - Copy](https://user-images.githubusercontent.com/28670916/227726082-d1ddd86d-f38c-4a66-b54b-7f4eeda9aab0.png)
+
 Then find the donwloaded files under the "downloads" folder in the same directory as BlackboardDownloader.sh
 
 
