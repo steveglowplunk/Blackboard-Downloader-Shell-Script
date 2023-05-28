@@ -5,7 +5,7 @@ Only works for CUHK's Blackboard platform. Requires some knowledge about Bash sc
 Tested on Ubuntu 22.04 and Windows WSL2
 
 ## What it does
-- Recursively download all files in a course so that you don't need to manually click on each file to download them
+- Batch download all files in a course so that you don't need to manually click on each file to download them
 - Alternatively, you can choose to download a single folder or file only
 
 ## ...Why?
