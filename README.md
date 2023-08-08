@@ -1,5 +1,6 @@
 # Blackboard Downloader Shell Script
 ## Description
+Tis project is now obsolete. Use a GUI version instead: https://github.com/steveglowplunk/Blackboard-Downloader-GUI  
 A Linux Bash script that downloads files from courses on CUHK's Blackboard platform.  
 Only works for CUHK's Blackboard platform. Requires some knowledge about Bash scripts to use.  
 Tested on Ubuntu 22.04 and Windows WSL2
