@@ -1,4 +1,4 @@
-# Blackboard Downloader for CUHK
+# Blackboard Downloader Shell Script
 ## Description
 A Linux Bash script that downloads files from courses on CUHK's Blackboard platform.  
 Only works for CUHK's Blackboard platform. Requires some knowledge about Bash scripts to use.  
